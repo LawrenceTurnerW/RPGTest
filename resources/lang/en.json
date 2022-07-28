@@ -1,0 +1,17 @@
+{
+  "play_cap": "PLAY",
+  "credits_cap": "CREDITS",
+  "powered_by": "Powered by ",
+  "built_with": "Built with ",
+
+  "talk_kid_1": "助けて!",
+  "talk_boss_1": "こんな風に会話とか視点移動もできるらしい",
+  "talk_player_3": "左右に立ち絵みたいなのが表示されるのが良い",
+  "talk_boss_2": "会話が挟まると移動がバグることがあるけど移動スティックをぐるっと回すと戻ることがあるよ",
+  "talk_kid_2": "くりあ",
+
+  "play_again_cap": "PLAY AGAIN",
+  "congratulations": "CONGRATULATIONS!",
+  "thanks": "くりあー",
+  "door_without_key": "I think I need a key to get through here!"
+}
